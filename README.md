@@ -26,6 +26,9 @@ MSc Business Analytics @ University College Cork | Research Assistant | Data Ana
 | S-BAN Technology | Sustainable deep-sea mining prototype — won UCC Hackathon 2025 | Research, Prototyping |
 | KHOJ Research | Mapped mental health correlations across 90 residential patterns post-flood | Survey Design, Data Analysis |
 | Coill Strategic Roadmap | 5-year B2B growth plan for Irish furniture brand | Strategy, Business Analytics |
+| [Customer Churn Prediction](https://github.com/ansh01302004-blip/customer-churn-prediction) | ML pipeline on 50,000 records — ANN, XGBoost, Random Forest | Python, Scikit-learn, XGBoost, TensorFlow |
+
+
 
 ---
 
